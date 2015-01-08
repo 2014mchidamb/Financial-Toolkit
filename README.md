@@ -1,7 +1,8 @@
 Financial-Toolkit
 =================
 
-A set of equity valuation tools.
+A set of equity valuation tools. Thanks to StackOverflow user [Shahram](http://stackoverflow.com/questions/21565970/yahoo-finance-python-web-scraper-key-statistics-and-financial-statements) for
+providing the Yahoo key statistics scraping code. 
 
 # Generating Comps
 
